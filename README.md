@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Random Astronomy Picture
+
+Web Site generating a link to a Random Astronomy Picture using NASA API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
