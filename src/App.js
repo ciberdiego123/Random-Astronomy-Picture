@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" className="App-logo" alt="logo" />
         <PictureLink/>
+        <a className="App-link" href="."><h6>Load another picture</h6></a>
       </header>
     </div>
   );
